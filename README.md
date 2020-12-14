@@ -15,7 +15,7 @@ __analysis.ipynb__ plots the graphs needed to analyze the data, for the explorat
 
 ## To Run the Project
 
-* To run the project, download data from the official Divvy web: <https://divvy-tripdata.s3.amazonaws.com/index.html>
+* To run the project, download data from the official Divvy website: <https://divvy-tripdata.s3.amazonaws.com/index.html>
 * Clone the repo and separate the datasets into separate folders. 
 * Run the preprocessing notebook to get the cleaned dataset.
 * Run regression_techniques.ipynb to get the models.
